@@ -166,3 +166,9 @@ css的[Selectors Level 4](https://link.zhihu.com/?target=https%3A//drafts.csswg.
 
 
 建议以后在新项目中都尽可能使用较为明显的focus样式，但是通过:focus-visible这个伪类来使得常规操作情况下不显示这个比较明显却突兀的焦点样式。
+
+
+
+## 参考
+
+[1] https://developer.mozilla.org/zh-CN/docs/Web/CSS/:focus-visible
