@@ -1,7 +1,7 @@
 ---
 title: 全角标点符号在 Web 网页中的排版问题
 slug: typographic-feature-with-full-width-symbol-on-web
-date: 2022-03-02 07:39:27
+date: 2022-03-28 23:19
 author: Chang Wei (昌维) <changwei1006@gmail.com>
 category: [Web, Web Front-End, Front-End, User Interface(UI), UX(User Experience), Typography]
 tag: [Web, Web Front-End, Front-End, User Interface(UI), UX(User Experience), Typography]
